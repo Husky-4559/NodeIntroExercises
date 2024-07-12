@@ -1,0 +1,11 @@
+{
+  "name": "node-intro-exercises",
+  "version": "1.0.0",
+  "description": "Node intro exercises to create file listing functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Athungal",
+  "license": "ISC"
+}
